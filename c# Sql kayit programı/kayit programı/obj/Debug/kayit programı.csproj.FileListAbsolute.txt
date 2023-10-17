@@ -1,0 +1,13 @@
+C:\Users\hp\source\repos\kayit programı\kayit programı\bin\Debug\kayit programı.exe.config
+C:\Users\hp\source\repos\kayit programı\kayit programı\bin\Debug\kayit programı.exe
+C:\Users\hp\source\repos\kayit programı\kayit programı\bin\Debug\kayit programı.pdb
+C:\Users\hp\source\repos\kayit programı\kayit programı\obj\Debug\kayit programı.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\kayit programı\kayit programı\obj\Debug\kayit programı.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\source\repos\kayit programı\kayit programı\obj\Debug\kayit_programı.Form1.resources
+C:\Users\hp\source\repos\kayit programı\kayit programı\obj\Debug\kayit_programı.Properties.Resources.resources
+C:\Users\hp\source\repos\kayit programı\kayit programı\obj\Debug\kayit programı.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\kayit programı\kayit programı\obj\Debug\kayit programı.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\kayit programı\kayit programı\obj\Debug\kayit programı.exe
+C:\Users\hp\source\repos\kayit programı\kayit programı\obj\Debug\kayit programı.pdb
+C:\Users\hp\source\repos\kayit programı\kayit programı\obj\Debug\kayit_programı.Form2.resources
+C:\Users\hp\source\repos\kayit programı\kayit programı\obj\Debug\kayit_programı.kullanıcı.resources
